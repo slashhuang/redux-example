@@ -1,6 +1,6 @@
-# redux-example
+# redux-example[使用Redux管理你的React应用]
 
-## 使用Redux管理你的React应用
+#根据官网的例子写的redux和react结合的例子
 
 > ![redux官方文档](http://rackt.github.io/redux/index.html)
  
@@ -14,3 +14,4 @@
 
 ##网上写的比较好的react和redux的Blog
 [使用Redux管理你的React应用](https://github.com/matthew-sun/blog/issues/18)
+
