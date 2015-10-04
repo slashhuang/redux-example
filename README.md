@@ -2,7 +2,7 @@
 
 #根据官网的例子写的redux和react结合的例子
 
-> ![redux官方文档](http://rackt.github.io/redux/index.html)
+> [redux官方文档](http://rackt.github.io/redux/index.html)
  
 ##使用
 ```
